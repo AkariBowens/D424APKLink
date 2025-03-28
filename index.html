@@ -9,19 +9,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>My GitHub Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <style> 
+        h1 {text-align: center; padding: 5; margin: auto;} 
+        h2 {text-align: center; padding: 5;} 
+        p {text-align: center; padding: 5;}
+        .nameContent {justify-content: center; align-items: center; text-align: center; grid-column-start: 1; }
+        .appInfoContent {justify-content: center; align-items: center; text-align: center; width: 50; grid-column-start: 1; display: grid; }
+        .mainContent { display: grid; margin: 50; padding: 25; gap: 50; grid-template-columns: 2 , 1, 1; }
+    </style>
 
 </head>
 
-<body>
-
+<body >
+<div class="mainContent">
     <h1>D424 Software Engineering Capstone</h1>
-
-    <p>Put information about your application here. </p>
-
-    <h2>APK Link</h2>
-    <embed src="D424APKLink\com.companyname.degreeprogramplanner" type="application/vnd.android.package-archive"></embed>
-    <a href="D424APKLink/com.companyname.degreeprogramplanner" type="application/vnd.android.package-archive" download="BowensAkariAPKLink"> APK Link </a>
+    <div class="nameContent">
+        <p> Akari Bowens </p>
+        <p> Abow125 </p>
+    <div class="appInfoContent">
+        <p> Description: This page holds the link to download my project for The D424 Software Engineering Capstone. 
+            The application is built in the .NET Maui 8 framework. The current release is optimized for Android 15 on the Google Pixel 7.</p>
     
+        <h2>APK Link</h2>
+    
+        
+        <a href="Downloads/com.companyname.degreeprogramplanner.apk" type="application/vnd.android.package-archive" download="BowensAkariAPKLink"> Donwload APK </a>
+    </div>
+    
+    </div>
+</div>
    
 
 </body>
