@@ -1,6 +1,6 @@
 # Degree Program Planner
 
-####Installing the application on a mobile device
+#### Installing the application on a mobile device
 1. The first release is only available on Google Pixel 7, running Android 15.
 2. To install, visit this link: https://akaribowens.github.io/D424APKLink/.
 3. When the page opens, press “Download APK.”
