@@ -4,7 +4,7 @@
 1. The first release is only available on Google Pixel 7, running Android 15.
 2. To install, visit this link: https://akaribowens.github.io/D424APKLink/.
 3. When the page opens, press “Download APK.”
-4. It should look this this: ![Download link image](https://github.com/user-attachments/assets/07a82359-0104-46d2-8c99-74d03adf4b29)
+4. It should look this this: ![Correct download link screenshot](https://github.com/user-attachments/assets/b85a7ead-12d1-4c92-aa37-bc681bc7d703)
 5. If you have not already allowed downloads from third parties, an alert will pop up asking for your permission to allow installation.
 6. Press “Settings” in the alert.
 7. This next page will ask for your permission to allow downloads from the application you used to open the link in step one. Press the button next to “Allow from this source” to toggle. Another alert with then pop up.
