@@ -1,15 +1,39 @@
-# Degree Program Planner
+# 🎓 Academic Planner Mobile App  
+*A cross-platform academic planning tool for WGU students, built with .NET MAUI 8*
 
-#### Installing the application on a mobile device
-1. The first release is only available on Google Pixel 7, running Android 15.
-2. To install, visit this link: https://akaribowens.github.io/D424APKLink/.
-3. When the page opens, press “Download APK.”
-4. It should look this this: ![Correct download link screenshot](https://github.com/user-attachments/assets/b85a7ead-12d1-4c92-aa37-bc681bc7d703)
-5. If you have not already allowed downloads from third parties, an alert will pop up asking for your permission to allow installation.
-6. Press “Settings” in the alert.
-7. This next page will ask for your permission to allow downloads from the application you used to open the link in step one. Press the button next to “Allow from this source” to toggle. Another alert with then pop up.
-8. Press “Install” when the alert pops up.
-9. Finally, locate and open the application by pressing the downloaded APK file.
+## 📱 Overview  
+The **Academic Planner Mobile App** is a full-stack mobile application designed to help **Western Governors University** students plan, track, and manage their academic progress. It was developed as part of my **Software Engineering Capstone** project at WGU.
+
+## 🔧 Tech Stack  
+- **Frontend/Backend:** .NET MAUI 8  
+- **Database:** SQLite  
+- **IDE:** Visual Studio  
+- **Testing Framework:** xUnit  
+
+## ✅ Features  
+- Track course completion and planned start dates  
+- View academic goals in a timeline format  
+- Store progress data locally with SQLite  
+- Responsive UI across Android and iOS devices
+
+## 🧠 Project Planning  
+- Defined the **target user group** (WGU students) and curated **user requirements**  
+- Created a **development plan** based on the **Software Development Life Cycle (SDLC)**  
+- Outlined key deliverables for each SDLC phase  
+- Developed a full **project timeline**
+
+## 🧪 Testing  
+- Created a formal **unit test plan**  
+- Wrote and executed unit test scripts using **xUnit**  
+- Validated functionality across key components
+
+## 📚 Documentation  
+- Authored a **User Operating Guide** to support end users  
+- Created a **Maintenance Guide** for future developers or administrators  
+- Provided detailed explanations of system behavior, use cases, and troubleshooting tips
+
+
+
 
 
 
