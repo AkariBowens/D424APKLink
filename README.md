@@ -32,8 +32,6 @@ The **Academic Planner Mobile App** is a full-stack mobile application designed 
 - Created a **Maintenance Guide** for future developers or administrators  
 - Provided detailed explanations of system behavior, use cases, and troubleshooting tips
 
-
-
-
+Visit the [wiki](https://github.com/AkariBowens/DegreePath/wiki) for an installation guide.
 
 
