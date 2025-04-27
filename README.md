@@ -1,8 +1,8 @@
 # 🎓 Academic Planner Mobile App  
-*A cross-platform academic planning tool for WGU students, built with .NET MAUI 8*
+*A cross-platform academic planning tool for university students, built with .NET MAUI 8*
 
 ## 📱 Overview  
-The **Academic Planner Mobile App** is a full-stack mobile application designed to help **Western Governors University** students plan, track, and manage their academic progress. It was developed as part of my **Software Engineering Capstone** project at WGU.
+The **Academic Planner Mobile App** is a full-stack mobile application designed to help university students plan, track, and manage their academic progress. It was developed as part of my **Software Engineering Capstone.**
 
 ## 🔧 Tech Stack  
 - **Frontend/Backend:** .NET MAUI 8  
@@ -17,7 +17,7 @@ The **Academic Planner Mobile App** is a full-stack mobile application designed 
 - Responsive UI across Android and iOS devices
 
 ## 🧠 Project Planning  
-- Defined the **target user group** (WGU students) and curated **user requirements**  
+- Defined the **target user group** (University students) and curated **user requirements**  
 - Created a **development plan** based on the **Software Development Life Cycle (SDLC)**  
 - Outlined key deliverables for each SDLC phase  
 - Developed a full **project timeline**
